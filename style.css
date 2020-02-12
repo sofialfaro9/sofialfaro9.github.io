@@ -1,0 +1,43 @@
+p {
+    font-family: fantasy;
+    font-size: medium;
+    color: red;
+    border: solid;
+    border-color: seagreen;
+    padding: 100px 50px 100px 50px;
+    margin: 10px 10px 10px 10px;
+    text-align: right;
+    
+    }
+    
+    .colorsalmon {
+        color: salmon;
+    
+    }
+    
+    .alinearimagen{
+    
+        margin: 20px 30px 20px 100px;
+        padding: 100px 100px 100px 100px;
+    }
+    
+ .flex-container {
+        align-items: center;
+        display: flex; 
+        justify-content: space-around;
+        
+        
+ }
+
+.first-box {
+    border: 10px solid black;
+    margin: 10px;
+}
+
+.second-box {
+    border: 20px solid red;
+    margin: 10px;
+}
+
+
+    
